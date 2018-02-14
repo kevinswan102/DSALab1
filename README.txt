@@ -1,1 +1,1 @@
-This is a game based on a highschool. 
+This is a lab that analyzes logs and gets bowler's information and scores. 
